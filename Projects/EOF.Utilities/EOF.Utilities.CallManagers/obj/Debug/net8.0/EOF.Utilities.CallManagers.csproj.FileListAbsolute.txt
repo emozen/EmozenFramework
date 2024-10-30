@@ -1,0 +1,12 @@
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\bin\Debug\net8.0\EOF.Utilities.CallManagers.deps.json
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\bin\Debug\net8.0\EOF.Utilities.CallManagers.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\bin\Debug\net8.0\EOF.Utilities.CallManagers.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.csproj.AssemblyReference.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.AssemblyInfoInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.AssemblyInfo.cs
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.csproj.CoreCompileInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\refint\EOF.Utilities.CallManagers.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\EOF.Utilities.CallManagers.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.CallManagers\obj\Debug\net8.0\ref\EOF.Utilities.CallManagers.dll

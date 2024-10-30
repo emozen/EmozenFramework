@@ -1,0 +1,11 @@
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.AssemblyInfoInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.AssemblyInfo.cs
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.csproj.CoreCompileInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\bin\Debug\net8.0\EOF.Utilities.ResultModel.deps.json
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\bin\Debug\net8.0\EOF.Utilities.ResultModel.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\bin\Debug\net8.0\EOF.Utilities.ResultModel.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\refint\EOF.Utilities.ResultModel.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\EOF.Utilities.ResultModel.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\obj\Debug\net8.0\ref\EOF.Utilities.ResultModel.dll

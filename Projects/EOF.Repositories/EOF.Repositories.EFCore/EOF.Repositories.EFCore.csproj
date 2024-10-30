@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Emozen Framwork Entity Framework Repository and UnitOfWork</Title>
+    <Authors>Emrullah ÖZEN</Authors>
+    <Product>EmozenFramework</Product>
+    <Description>Tekrar kod yazımından kacinmak</Description>
+    <PackageIcon>emozen_logo.png</PackageIcon>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageTags>Emozen, Utilities, Repositories etc</PackageTags>
+    <Version>1.0.8</Version>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+	
+
+  <ItemGroup>
+    <None Include="..\..\..\Assets\emozen_logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+	  <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+  </ItemGroup>
+
+</Project>

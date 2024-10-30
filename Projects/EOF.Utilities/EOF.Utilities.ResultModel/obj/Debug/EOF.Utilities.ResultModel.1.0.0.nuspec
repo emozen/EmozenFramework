@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EOF.Utilities.ResultModel</id>
+    <version>1.0.0</version>
+    <title>Emozen Framwork Result Model</title>
+    <authors>Emrullah ÖZEN</authors>
+    <icon>emozen_logo.png</icon>
+    <readme>README.md</readme>
+    <description>Avoiding code rewriting</description>
+    <tags>Emozen, ResultModel, Result etc</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\bin\Debug\net8.0\EOF.Utilities.ResultModel.dll" target="lib\net8.0\EOF.Utilities.ResultModel.dll" />
+    <file src="C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.ResultModel\README.md" target="\README.md" />
+    <file src="C:\Users\emrullaho\source\myRepo\EmozenFramework\Assets\emozen_logo.png" target="\emozen_logo.png" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\bin\Debug\net8.0\EOF.Utilities.StringCipher.deps.json
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\bin\Debug\net8.0\EOF.Utilities.StringCipher.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\bin\Debug\net8.0\EOF.Utilities.StringCipher.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.AssemblyInfoInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.AssemblyInfo.cs
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.csproj.CoreCompileInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\refint\EOF.Utilities.StringCipher.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\EOF.Utilities.StringCipher.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Utilities\EOF.Utilities.StringCipher\obj\Debug\net8.0\ref\EOF.Utilities.StringCipher.dll

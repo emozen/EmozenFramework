@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EOF.Repositories.EFCore</id>
+    <version>1.0.6</version>
+    <title>Emozen Framwork Entity Framework Repository and UnitOfWork</title>
+    <authors>Emrullah ÖZEN</authors>
+    <icon>emozen_logo.png</icon>
+    <description>Tekrar kod yazımından kacinmak</description>
+    <tags>Emozen, Utilities, Repositories etc</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\bin\Release\net8.0\EOF.Repositories.EFCore.dll" target="lib\net8.0\EOF.Repositories.EFCore.dll" />
+    <file src="C:\Users\emrullaho\source\myRepo\EmozenFramework\Assets\emozen_logo.png" target="\emozen_logo.png" />
+  </files>
+</package>

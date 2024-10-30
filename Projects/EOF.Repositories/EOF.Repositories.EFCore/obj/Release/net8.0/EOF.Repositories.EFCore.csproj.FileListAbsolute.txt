@@ -1,0 +1,12 @@
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\bin\Release\net8.0\EOF.Repositories.EFCore.deps.json
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\bin\Release\net8.0\EOF.Repositories.EFCore.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\bin\Release\net8.0\EOF.Repositories.EFCore.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.csproj.AssemblyReference.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.AssemblyInfoInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.AssemblyInfo.cs
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\refint\EOF.Repositories.EFCore.dll
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\EOF.Repositories.EFCore.pdb
+C:\Users\emrullaho\source\myRepo\EmozenFramework\Projects\EOF.Repositories\EOF.Repositories.EFCore\obj\Release\net8.0\ref\EOF.Repositories.EFCore.dll
